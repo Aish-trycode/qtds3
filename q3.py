@@ -4,7 +4,7 @@ from typing import Union
 import json
 import uvicorn
 
-YOUR_EMAIL = "yourmail"
+YOUR_EMAIL = "23f2004536@ds.study.iitm.ac.in"
 
 # Load dataset
 with open("q-fastapi-llm-query.json") as f:
